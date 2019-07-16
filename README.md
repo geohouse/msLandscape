@@ -16,4 +16,4 @@ For a tutorial about how to use the msLandscape_layerPNGImages function in *msLa
 
 The toolbox of other (non-R) scripts that are part of *msLandscape* are found in the ```msLandscape_toolboxScripts``` directory.
 
-msLandscape is published as part of: House and Hahn <a href=" https://doi.org/10.1111/1755-0998.12747">*Evaluating methods to visualize patterns of genetic differentiation on a landscape*</a>. Molecular Ecology Resources (2018) doi:10.1111/1755-0998.12747
+msLandscape is published as part of: House and Hahn <a href="https://doi.org/10.1111/1755-0998.12747">*Evaluating methods to visualize patterns of genetic differentiation on a landscape*</a>. Molecular Ecology Resources (2018) doi:10.1111/1755-0998.12747
