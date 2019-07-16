@@ -15,3 +15,5 @@ For a guide to using the scripts in the *msLandscape* toolbox to help convert *m
 For a tutorial about how to use the msLandscape_layerPNGImages function in *msLandscape* to create layered composite images of multiple input images (e.g. *SpaceMix*, *EEMS*, or *un-PC* results from different scenarios) that allow direct comparisons between them, see the linked tutorial <a href="https://geohouse.github.io/msLandscape_layerPNGImages_tutorial.html">here</a>.
 
 The toolbox of other (non-R) scripts that are part of *msLandscape* are found in the ```msLandscape_toolboxScripts``` directory.
+
+msLandscape is published as part of: House and Hahn <a href=" https://doi.org/10.1111/1755-0998.12747">*Evaluating methods to visualize patterns of genetic differentiation on a landscape*</a>. Molecular Ecology Resources (2018) doi:10.1111/1755-0998.12747
